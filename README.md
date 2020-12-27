@@ -1,2 +1,2 @@
-# Consensys work & resources
+# Consensys tools & resources
 ## By: Carl Farterson
