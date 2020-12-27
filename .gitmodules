@@ -1,0 +1,3 @@
+[submodule "smart-contract-best-practices"]
+	path = smart-contract-best-practices
+	url = git@github.com:Consensys/smart-contract-best-practices
